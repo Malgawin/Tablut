@@ -1,7 +1,7 @@
 #ifndef TABLUT_AVANCE_H
 #define TABLUT_AVANCE_H
 
-#include "mange.h"
+#include "Fonction.h"
 
 void mode_avance(int taille_ligne, int* plateau);
 void ajouter_case(int taille_ligne, int type, int fois, int* plateau);
